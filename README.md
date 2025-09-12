@@ -1,2 +1,2 @@
-# MachineLearning2025
+# KNTU AI Spring 2025
 .....
